@@ -31,7 +31,6 @@ namespace 钱币找零问题_贪心算法
         public static int[] Change(int k, int[] count, int[] amount)
         {
             if (k == 0) return new int[amount.Length + 1];
-            int total = 0;
             int index = amount.Length - 1;
             int[] result = new int[amount.Length + 1];
             while (true)

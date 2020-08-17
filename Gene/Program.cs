@@ -22,9 +22,6 @@ namespace 钢条切割问题_递归实现
         static void Main(string[] args)
 
         {
-
-            int n = 5;//我们要切割售卖的钢条的长度
-
             int[] p = { 0, 1, 5, 8, 9, 10, 17, 17, 20, 24, 30 };//索引代表 钢条的长度，值代表价格
 
             Console.WriteLine(UpDown(0, p));
