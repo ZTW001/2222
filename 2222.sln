@@ -3,33 +3,35 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2222", "2222\2222.csproj", "{A8E6ABE5-6D81-4B99-9BD3-E6F9EA015288}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2222", "2222\2222.csproj", "{A8E6ABE5-6D81-4B99-9BD3-E6F9EA015288}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenticTSP", "..\GenticTSP\GenticTSP\GenticTSP.csproj", "{8693D3E5-AC2B-41BD-BACB-E215FE00C9BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSP", "..\TSP\TSP\TSP.csproj", "{39353C5D-29B9-4BE2-90E6-E37F4DB83BE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "钢条切割问题_递归实现", "Gene\钢条切割问题_递归实现.csproj", "{EF3DEB98-9177-4444-B9F4-C4B791916B16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "钢条切割问题_递归实现", "Gene\钢条切割问题_递归实现.csproj", "{EF3DEB98-9177-4444-B9F4-C4B791916B16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "钢条切割问题_带备忘的自顶向下法_动态规划_", "钢条切割问题_带备忘的自顶向下法_动态规划_\钢条切割问题_带备忘的自顶向下法_动态规划_.csproj", "{3BAAC199-DF5C-41EA-BCE6-1FC42E33C651}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "钢条切割问题_带备忘的自顶向下法_动态规划_", "钢条切割问题_带备忘的自顶向下法_动态规划_\钢条切割问题_带备忘的自顶向下法_动态规划_.csproj", "{3BAAC199-DF5C-41EA-BCE6-1FC42E33C651}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "钢条切割问题_自底向上法_动态规划算法_", "钢条切割问题_自底向上法_动态规划算法_\钢条切割问题_自底向上法_动态规划算法_.csproj", "{C6495AF9-A6EA-4ABD-93AE-07FEB218A885}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "钢条切割问题_自底向上法_动态规划算法_", "钢条切割问题_自底向上法_动态规划算法_\钢条切割问题_自底向上法_动态规划算法_.csproj", "{C6495AF9-A6EA-4ABD-93AE-07FEB218A885}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01背包问题_穷举法", "_01背包问题_穷举法\_01背包问题_穷举法.csproj", "{9A12E749-5640-44C3-B9F6-26AE97179313}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_01背包问题_穷举法", "_01背包问题_穷举法\_01背包问题_穷举法.csproj", "{9A12E749-5640-44C3-B9F6-26AE97179313}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01背包问题_递归实现_不带备忘的自顶向下法_", "_01背包问题_递归实现_不带备忘的自顶向下法_\_01背包问题_递归实现_不带备忘的自顶向下法_.csproj", "{CE5E22A8-EB5A-45AA-AF13-210BF4152268}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_01背包问题_递归实现_不带备忘的自顶向下法_", "_01背包问题_递归实现_不带备忘的自顶向下法_\_01背包问题_递归实现_不带备忘的自顶向下法_.csproj", "{CE5E22A8-EB5A-45AA-AF13-210BF4152268}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01背包问题_递归实现_带备忘的自顶向下法_", "_01背包问题_递归实现_带备忘的自顶向下法_\_01背包问题_递归实现_带备忘的自顶向下法_.csproj", "{AC30A66F-A70E-4464-B0CE-A5B15F080A3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_01背包问题_递归实现_带备忘的自顶向下法_", "_01背包问题_递归实现_带备忘的自顶向下法_\_01背包问题_递归实现_带备忘的自顶向下法_.csproj", "{AC30A66F-A70E-4464-B0CE-A5B15F080A3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01背包问题_自底向上法_动态规划_", "_01背包问题_自底向上法_动态规划_\_01背包问题_自底向上法_动态规划_.csproj", "{45501102-4688-4D4D-BE4C-420BE85BC0A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_01背包问题_自底向上法_动态规划_", "_01背包问题_自底向上法_动态规划_\_01背包问题_自底向上法_动态规划_.csproj", "{45501102-4688-4D4D-BE4C-420BE85BC0A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "活动选择问题_动态规划思路_自底向上_", "活动选择问题_动态规划思路_自底向上_\活动选择问题_动态规划思路_自底向上_.csproj", "{0536ACA8-591E-40D1-A5E3-9FFEBFBDBF62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "活动选择问题_动态规划思路_自底向上_", "活动选择问题_动态规划思路_自底向上_\活动选择问题_动态规划思路_自底向上_.csproj", "{0536ACA8-591E-40D1-A5E3-9FFEBFBDBF62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "活动选择问题_贪心算法_递归解决_", "活动选择问题_贪心算法_递归解决_\活动选择问题_贪心算法_递归解决_.csproj", "{F852CF33-CD42-49CA-B833-117BA4F38BEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "活动选择问题_贪心算法_递归解决_", "活动选择问题_贪心算法_递归解决_\活动选择问题_贪心算法_递归解决_.csproj", "{F852CF33-CD42-49CA-B833-117BA4F38BEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "活动选择问题_贪心算法_迭代解决_", "活动选择问题_贪心算法_迭代解决_\活动选择问题_贪心算法_迭代解决_.csproj", "{9A0F122F-D282-4D3B-B1B7-CEEBF0FFF1BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "活动选择问题_贪心算法_迭代解决_", "活动选择问题_贪心算法_迭代解决_\活动选择问题_贪心算法_迭代解决_.csproj", "{9A0F122F-D282-4D3B-B1B7-CEEBF0FFF1BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "钱币找零问题_贪心算法", "钱币找零问题_贪心算法\钱币找零问题_贪心算法.csproj", "{EA0DFA74-9120-41C5-81D0-D25280521D29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "钱币找零问题_贪心算法", "钱币找零问题_贪心算法\钱币找零问题_贪心算法.csproj", "{EA0DFA74-9120-41C5-81D0-D25280521D29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticAlgorithm", "GeneticAlgorithm\GeneticAlgorithm.csproj", "{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,14 @@ Global
 		{EA0DFA74-9120-41C5-81D0-D25280521D29}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EA0DFA74-9120-41C5-81D0-D25280521D29}.Release|x86.ActiveCfg = Release|Any CPU
 		{EA0DFA74-9120-41C5-81D0-D25280521D29}.Release|x86.Build.0 = Release|Any CPU
+		{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}.Debug|x86.Build.0 = Debug|Any CPU
+		{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}.Release|x86.ActiveCfg = Release|Any CPU
+		{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
