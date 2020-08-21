@@ -31,7 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "活动选择问题_贪心�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "钱币找零问题_贪心算法", "钱币找零问题_贪心算法\钱币找零问题_贪心算法.csproj", "{EA0DFA74-9120-41C5-81D0-D25280521D29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneticAlgorithm", "GeneticAlgorithm\GeneticAlgorithm.csproj", "{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneticAlgorithm", "GeneticAlgorithm\GeneticAlgorithm.csproj", "{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backtracking algorithm", "Backtracking algorithm\Backtracking algorithm.csproj", "{36CDEC4E-E4AC-4EDF-9607-B1F3395689C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最大子数组问题_暴力求解", "最大子数组问题_暴力求解\最大子数组问题_暴力求解.csproj", "{70A2A580-B703-42CD-916D-6B2AA9CAF4E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最大子数组问题_分治法", "最大子数组问题_分治法\最大子数组问题_分治法.csproj", "{0B0E071C-B4C1-40FC-93C9-9A5971F4045F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -157,6 +163,30 @@ Global
 		{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}.Release|x86.ActiveCfg = Release|Any CPU
 		{BEC87F1C-2266-4AE7-8BAD-EB7F656CBDEF}.Release|x86.Build.0 = Release|Any CPU
+		{36CDEC4E-E4AC-4EDF-9607-B1F3395689C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CDEC4E-E4AC-4EDF-9607-B1F3395689C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CDEC4E-E4AC-4EDF-9607-B1F3395689C3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{36CDEC4E-E4AC-4EDF-9607-B1F3395689C3}.Debug|x86.Build.0 = Debug|Any CPU
+		{36CDEC4E-E4AC-4EDF-9607-B1F3395689C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CDEC4E-E4AC-4EDF-9607-B1F3395689C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36CDEC4E-E4AC-4EDF-9607-B1F3395689C3}.Release|x86.ActiveCfg = Release|Any CPU
+		{36CDEC4E-E4AC-4EDF-9607-B1F3395689C3}.Release|x86.Build.0 = Release|Any CPU
+		{70A2A580-B703-42CD-916D-6B2AA9CAF4E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A2A580-B703-42CD-916D-6B2AA9CAF4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A2A580-B703-42CD-916D-6B2AA9CAF4E3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{70A2A580-B703-42CD-916D-6B2AA9CAF4E3}.Debug|x86.Build.0 = Debug|Any CPU
+		{70A2A580-B703-42CD-916D-6B2AA9CAF4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A2A580-B703-42CD-916D-6B2AA9CAF4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A2A580-B703-42CD-916D-6B2AA9CAF4E3}.Release|x86.ActiveCfg = Release|Any CPU
+		{70A2A580-B703-42CD-916D-6B2AA9CAF4E3}.Release|x86.Build.0 = Release|Any CPU
+		{0B0E071C-B4C1-40FC-93C9-9A5971F4045F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0E071C-B4C1-40FC-93C9-9A5971F4045F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0E071C-B4C1-40FC-93C9-9A5971F4045F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0B0E071C-B4C1-40FC-93C9-9A5971F4045F}.Debug|x86.Build.0 = Debug|Any CPU
+		{0B0E071C-B4C1-40FC-93C9-9A5971F4045F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0E071C-B4C1-40FC-93C9-9A5971F4045F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B0E071C-B4C1-40FC-93C9-9A5971F4045F}.Release|x86.ActiveCfg = Release|Any CPU
+		{0B0E071C-B4C1-40FC-93C9-9A5971F4045F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
