@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最大子数组问题_暴�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "最大子数组问题_分治法", "最大子数组问题_分治法\最大子数组问题_分治法.csproj", "{0B0E071C-B4C1-40FC-93C9-9A5971F4045F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "寻路算法", "寻路算法\寻路算法.csproj", "{FFD84C82-0AB1-434F-9EEE-FDF7DE63DEA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -187,6 +189,14 @@ Global
 		{0B0E071C-B4C1-40FC-93C9-9A5971F4045F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0B0E071C-B4C1-40FC-93C9-9A5971F4045F}.Release|x86.ActiveCfg = Release|Any CPU
 		{0B0E071C-B4C1-40FC-93C9-9A5971F4045F}.Release|x86.Build.0 = Release|Any CPU
+		{FFD84C82-0AB1-434F-9EEE-FDF7DE63DEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD84C82-0AB1-434F-9EEE-FDF7DE63DEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD84C82-0AB1-434F-9EEE-FDF7DE63DEA4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FFD84C82-0AB1-434F-9EEE-FDF7DE63DEA4}.Debug|x86.Build.0 = Debug|Any CPU
+		{FFD84C82-0AB1-434F-9EEE-FDF7DE63DEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD84C82-0AB1-434F-9EEE-FDF7DE63DEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD84C82-0AB1-434F-9EEE-FDF7DE63DEA4}.Release|x86.ActiveCfg = Release|Any CPU
+		{FFD84C82-0AB1-434F-9EEE-FDF7DE63DEA4}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
