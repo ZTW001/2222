@@ -45,6 +45,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24点游戏", "24点游戏\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "howto_xaml_cube_sides", "C:\Users\admin\Desktop\howto_xaml_cube_sides\howto_xaml_cube_sides.csproj", "{52F2BDB4-6C48-4C43-939E-55D7F5F95652}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "洗牌算法", "洗牌算法\洗牌算法.csproj", "{AEBE8FDE-C4C1-4DF0-AB0D-ACF4E27D6936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomAlgorithm", "C:\Users\admin\Desktop\新建文件夹\RandomAlgorithm\RandomAlgorithm.csproj", "{9EE485AE-A8B9-4BB9-B3D2-0ABCFE933471}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -217,6 +221,22 @@ Global
 		{52F2BDB4-6C48-4C43-939E-55D7F5F95652}.Release|Any CPU.Build.0 = Release|Any CPU
 		{52F2BDB4-6C48-4C43-939E-55D7F5F95652}.Release|x86.ActiveCfg = Release|Any CPU
 		{52F2BDB4-6C48-4C43-939E-55D7F5F95652}.Release|x86.Build.0 = Release|Any CPU
+		{AEBE8FDE-C4C1-4DF0-AB0D-ACF4E27D6936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBE8FDE-C4C1-4DF0-AB0D-ACF4E27D6936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBE8FDE-C4C1-4DF0-AB0D-ACF4E27D6936}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AEBE8FDE-C4C1-4DF0-AB0D-ACF4E27D6936}.Debug|x86.Build.0 = Debug|Any CPU
+		{AEBE8FDE-C4C1-4DF0-AB0D-ACF4E27D6936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBE8FDE-C4C1-4DF0-AB0D-ACF4E27D6936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEBE8FDE-C4C1-4DF0-AB0D-ACF4E27D6936}.Release|x86.ActiveCfg = Release|Any CPU
+		{AEBE8FDE-C4C1-4DF0-AB0D-ACF4E27D6936}.Release|x86.Build.0 = Release|Any CPU
+		{9EE485AE-A8B9-4BB9-B3D2-0ABCFE933471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE485AE-A8B9-4BB9-B3D2-0ABCFE933471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE485AE-A8B9-4BB9-B3D2-0ABCFE933471}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9EE485AE-A8B9-4BB9-B3D2-0ABCFE933471}.Debug|x86.Build.0 = Debug|Any CPU
+		{9EE485AE-A8B9-4BB9-B3D2-0ABCFE933471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE485AE-A8B9-4BB9-B3D2-0ABCFE933471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE485AE-A8B9-4BB9-B3D2-0ABCFE933471}.Release|x86.ActiveCfg = Release|Any CPU
+		{9EE485AE-A8B9-4BB9-B3D2-0ABCFE933471}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
