@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{57AD23CC-2665-4CA8-A883-55B22A8972CA}"
+	ProjectSection(SolutionItems) = preProject
+		blog.txt = blog.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RgbGuesser", "RgbGuesser\RgbGuesser.csproj", "{89FA8623-B740-45CB-99AB-9B1AB635E1B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Improve Framework", "Improve Framework\Improve Framework.csproj", "{18B6793B-13DE-4F93-AC30-D58E2A0E893B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89FA8623-B740-45CB-99AB-9B1AB635E1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FA8623-B740-45CB-99AB-9B1AB635E1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FA8623-B740-45CB-99AB-9B1AB635E1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FA8623-B740-45CB-99AB-9B1AB635E1B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B6793B-13DE-4F93-AC30-D58E2A0E893B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B6793B-13DE-4F93-AC30-D58E2A0E893B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B6793B-13DE-4F93-AC30-D58E2A0E893B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B6793B-13DE-4F93-AC30-D58E2A0E893B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99BC4748-0CAD-4BAC-91BC-7DC2FBAAA4BE}
+	EndGlobalSection
+EndGlobal
