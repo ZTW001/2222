@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "洗牌算法", "洗牌算�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomAlgorithm", "C:\Users\admin\Desktop\新建文件夹\RandomAlgorithm\RandomAlgorithm.csproj", "{9EE485AE-A8B9-4BB9-B3D2-0ABCFE933471}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "快速排序", "快速排序\快速排序.csproj", "{35C46FF0-3221-483D-B628-39D3F6BD0D6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,14 @@ Global
 		{9EE485AE-A8B9-4BB9-B3D2-0ABCFE933471}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9EE485AE-A8B9-4BB9-B3D2-0ABCFE933471}.Release|x86.ActiveCfg = Release|Any CPU
 		{9EE485AE-A8B9-4BB9-B3D2-0ABCFE933471}.Release|x86.Build.0 = Release|Any CPU
+		{35C46FF0-3221-483D-B628-39D3F6BD0D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C46FF0-3221-483D-B628-39D3F6BD0D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C46FF0-3221-483D-B628-39D3F6BD0D6E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{35C46FF0-3221-483D-B628-39D3F6BD0D6E}.Debug|x86.Build.0 = Debug|Any CPU
+		{35C46FF0-3221-483D-B628-39D3F6BD0D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C46FF0-3221-483D-B628-39D3F6BD0D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C46FF0-3221-483D-B628-39D3F6BD0D6E}.Release|x86.ActiveCfg = Release|Any CPU
+		{35C46FF0-3221-483D-B628-39D3F6BD0D6E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
