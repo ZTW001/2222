@@ -65,6 +65,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coupon", "Coupon\Coupon.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{BCCC884D-1777-484F-A19D-16AAB6E78D63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jiami", "jiami\jiami.csproj", "{98069F75-545A-43CA-8AA2-0ED3FEA7656B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiTestClient", "..\..\..\..\新建文件夹\WebApiTestClient-master\WebApiTestClient\WebApiTestClient\WebApiTestClient.csproj", "{55E16CDA-4832-43F8-822E-5BE81A9845C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +325,22 @@ Global
 		{BCCC884D-1777-484F-A19D-16AAB6E78D63}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BCCC884D-1777-484F-A19D-16AAB6E78D63}.Release|x86.ActiveCfg = Release|Any CPU
 		{BCCC884D-1777-484F-A19D-16AAB6E78D63}.Release|x86.Build.0 = Release|Any CPU
+		{98069F75-545A-43CA-8AA2-0ED3FEA7656B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98069F75-545A-43CA-8AA2-0ED3FEA7656B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98069F75-545A-43CA-8AA2-0ED3FEA7656B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{98069F75-545A-43CA-8AA2-0ED3FEA7656B}.Debug|x86.Build.0 = Debug|Any CPU
+		{98069F75-545A-43CA-8AA2-0ED3FEA7656B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98069F75-545A-43CA-8AA2-0ED3FEA7656B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98069F75-545A-43CA-8AA2-0ED3FEA7656B}.Release|x86.ActiveCfg = Release|Any CPU
+		{98069F75-545A-43CA-8AA2-0ED3FEA7656B}.Release|x86.Build.0 = Release|Any CPU
+		{55E16CDA-4832-43F8-822E-5BE81A9845C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E16CDA-4832-43F8-822E-5BE81A9845C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E16CDA-4832-43F8-822E-5BE81A9845C9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{55E16CDA-4832-43F8-822E-5BE81A9845C9}.Debug|x86.Build.0 = Debug|Any CPU
+		{55E16CDA-4832-43F8-822E-5BE81A9845C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E16CDA-4832-43F8-822E-5BE81A9845C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E16CDA-4832-43F8-822E-5BE81A9845C9}.Release|x86.ActiveCfg = Release|Any CPU
+		{55E16CDA-4832-43F8-822E-5BE81A9845C9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
